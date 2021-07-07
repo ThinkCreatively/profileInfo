@@ -25,3 +25,4 @@ My name is James Moore, I'm a full stack software engineer. I am located in Litt
 
 ![ThinkCreatively GitHub stats](https://github-readme-stats.vercel.app/api?username=ThinkCreatively&show_icons=true&theme=cobalt)
 
+
