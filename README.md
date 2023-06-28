@@ -3,7 +3,7 @@
 My name is James Moore, I'm a full stack software engineer. I am located in Littleton Colorado, and I really enjoy creating webapps, learning new technologies, and helping others accomplish their goals. Please checkout some of my projects and feel free to contact me anytime! <br /> <br />
 <a href="https://www.linkedin.com/in/jmoore99/">
 <img alt="James Moore" src="https://img.shields.io/badge/James Moore-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a><a href="mailto:jameswmoore99@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/jameswmoore99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</a><a href="mailto:jameswmooreDev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/jameswmoore99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ### <img src="https://images.emojiterra.com/twitter/v13.0/512px/1f6e0.png" height="20" width="20"/> What I love working with:
 
